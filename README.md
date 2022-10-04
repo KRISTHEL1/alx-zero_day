@@ -1,2 +1,2 @@
 My first readme
-My name is kristhel 
+My name is kris
